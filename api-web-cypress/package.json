@@ -1,0 +1,16 @@
+{
+  "name": "dws-cypress-portal",
+  "engine": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "@types/faker": "5.1.6",
+    "cypress": "6.8.0",
+    "faker": "5.4.0",
+    "typescript": "4.2.3"
+  }
+}
