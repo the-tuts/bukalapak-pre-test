@@ -1,17 +1,6 @@
 {
   "baseUrl": "https://www.bukalapak.com/",
   "integrationFolder": "cypress/tests",
-  "experimentalStudio": true,
-  "reporter": "cypress-multi-reporters",
-  "reporterOptions": {
-    "reporterEnabled": "cypress-mochawesome-reporter",
-    "cypressMochawesomeReporterReporterOptions": {
-      "charts": true,
-      "reportPageTitle": "Cypress Tests Result",
-      "cdn": true,
-      "reportTitle": "Bukalapak Pre-Test"
-    }
-  },
   "viewportWidth": 1366,
   "viewportHeight": 768
 }
