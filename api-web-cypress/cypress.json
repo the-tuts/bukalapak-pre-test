@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://www.bukalapak.com/",
+  "baseUrl": "https://www.bukalapak.com/",
   "integrationFolder": "cypress/tests",
   "experimentalStudio": true,
   "reporter": "cypress-multi-reporters",
